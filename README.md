@@ -43,6 +43,6 @@ Version Control: Git, Github
 - 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn:linkedin.com/in/ishita-panchal-9119572b1 
+- 💼 LinkedIn:https://www.linkedin.com/in/ishita-panchal-9119572b1/
 - 💻 GitHub: https://github.com/ishita191
 - 📧 Email: ishitapanchal146@gmail.com
