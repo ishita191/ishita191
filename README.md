@@ -40,7 +40,7 @@ Version Control: Git, Github
 - Java Swing Desktop Application
 - Offline Speech Recognition
 - Voice Commands using CMU Sphinx
-- 
+
 ## 📫 Connect With Me
 
 - 💼 LinkedIn:https://www.linkedin.com/in/ishita-panchal-9119572b1/
