@@ -29,13 +29,6 @@ Version Control: Git, Github
 - REST API Integration
 - Responsive User Interface
 
-### 🚚 TruckSync – Truck Booking System
-- JSP, Servlet, JDBC, MySQL
-- User Authentication
-- Booking Management
-- Payment Module
-- Admin Dashboard
-
 ### 🎤 Voice Assistant
 - Java Swing Desktop Application
 - Offline Speech Recognition
